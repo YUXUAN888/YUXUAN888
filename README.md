@@ -18,12 +18,12 @@
 ---
 
 <!-- GitHub 统计卡片 -->
-### 📊 GitHub 数据分析
+### 📊 GitHub Statistics
 
 <!-- 记得把 'yourusername' 替换成你自己的 GitHub 用户名 -->
 <!-- 你可以通过修改 'theme' 参数来更换主题，可选值包括：default, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YUXUAN888&show_icons=true&theme=radical" alt="yourusername's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YUXUAN888&show_icons=true&theme=radical" alt="YUXUAN888's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUXUAN888&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
