@@ -34,13 +34,7 @@
 
 ---
 
-<!-- 社交链接 -->
-### 📫 联系我
 
-<!-- 用图标和链接展示你的社交账号 -->
-[![个人博客](https://img.shields.io/badge/-博客-000000?style=flat&logo=jekyll&logoColor=white)](yxcentre.cn:1314)
-
----
 
 <!-- 访客计数器（可选） -->
 <!-- 将 'yourusername' 和 'your-repo-name' 替换成你的信息 -->
