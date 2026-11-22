@@ -1,43 +1,92 @@
-<!-- 头部横幅/欢迎语 -->
-## 👋 Hi there
 
-<!-- 简短有力的自我介绍，可以加上 emoji 增加活力 -->
-🚀 业余开发者 | ☕ 咖啡因驱动
+<!-- ==================== HEADER ==================== -->
 
-<!-- 技术栈展示 -->
-### 🛠️ 技术栈与工具
+<div align="center">
 
-<!-- 这里使用了 shields.io 的徽章，你可以去网站自定义图标和颜色 -->
-<!-- 格式: https://img.shields.io/badge/-技术名-颜色?style=flat&logo=logo名 -->
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![C](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=C&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-<!-- 更多技术徽章可以在这里添加 -->
+# Hi, I'm YuXuan 👋
+
+**Student Developer · Software & Embedded Systems**
+
+🚀 业余开发者 &nbsp;·&nbsp; ☕ 咖啡因驱动
+
+<p>
+  <a href="https://github.com/YUXUAN888">
+    <img src="https://img.shields.io/badge/GitHub-YUXUAN888-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/github/followers/YUXUAN888?style=flat-square&label=Followers&color=0969DA" alt="Followers"/>
+</p>
+
+</div>
 
 ---
 
-<!-- GitHub 统计卡片 -->
-### 📊 GitHub Statistics
+<!-- ==================== ABOUT ==================== -->
 
-<!-- 记得把 'yourusername' 替换成你自己的 GitHub 用户名 -->
-<!-- 你可以通过修改 'theme' 参数来更换主题，可选值包括：default, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YUXUAN888&show_icons=true&theme=radical" alt="YUXUAN888's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUXUAN888&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+### 👨‍💻 About Me
 
-<!-- 也可以加上连续打卡的 Streak 统计 -->
+- 🎓 机器人工程专业学生，热爱编程与技术探索
+- ⚡ 关注软件开发、嵌入式系统与硬件编程
+- 🔧 正在学习单片机、嵌入式开发与相关技术
+- 🌱 保持好奇，持续学习，努力把想法变成现实
+
+---
+
+<!-- ==================== TECH STACK ==================== -->
+
+### 🛠️ Languages & Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C Sharp"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+
+</div>
+
+---
+
+<!-- ==================== INTERESTS ==================== -->
+
+### ⚡ What I'm Exploring
+
+```text
+Software Development
+    ├── C / C++
+    ├── C# Applications
+    └── Python
+
+Embedded Systems
+    ├── Microcontrollers
+    ├── Hardware Programming
+    └── Electronics
+```
+
+---
+
+<!-- ==================== PROJECTS ==================== -->
+
+### 📂 Featured Projects
+
+| Project | Description |
+| :--- | :--- |
+| [FSM3](https://github.com/YUXUAN888/FSM3) | FSMLauncher · C# |
+| [GeminiT](https://github.com/YUXUAN888/GeminiT) | 双子座下载核心 · C# |
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YUXUAN888&theme=radical" alt="GitHub Streak" />
+  <a href="https://github.com/YUXUAN888?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Explore Repositories"/>
+  </a>
 </p>
 
 ---
 
+<!-- ==================== FOOTER ==================== -->
 
+<div align="center">
 
-<!-- 访客计数器（可选） -->
-<!-- 将 'yourusername' 和 'your-repo-name' 替换成你的信息 -->
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/YUXUAN888/count.svg" alt="访客数量" />
-</p>
+**Build. Learn. Improve. Repeat.**
+
+<sub>Thanks for visiting · Made with curiosity and ☕</sub>
+
+</div>
