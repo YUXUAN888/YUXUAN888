@@ -10,7 +10,7 @@
 <!-- 这里使用了 shields.io 的徽章，你可以去网站自定义图标和颜色 -->
 <!-- 格式: https://img.shields.io/badge/-技术名-颜色?style=flat&logo=logo名 -->
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=C&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 <!-- 更多技术徽章可以在这里添加 -->
