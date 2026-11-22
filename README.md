@@ -66,12 +66,27 @@ Embedded Systems
 
 <!-- ==================== PROJECTS ==================== -->
 
-### 📂 Featured Projects
 
-| Project | Description |
-| :--- | :--- |
-| [FSM3](https://github.com/YUXUAN888/FSM3) | FSMLauncher · C# |
-| [GeminiT](https://github.com/YUXUAN888/GeminiT) | 双子座下载核心 · C# |
+<!-- OPTIONAL: GITHUB STATISTICS -->
+
+### 📊 GitHub Statistics
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YUXUAN888&show_icons=true&theme=transparent&hide_border=true"
+    height="165"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUXUAN888&layout=compact&theme=transparent&hide_border=true"
+    height="165"
+    alt="Top Languages"
+  />
+
+</div>
+
 
 <p align="center">
   <a href="https://github.com/YUXUAN888?tab=repositories">
